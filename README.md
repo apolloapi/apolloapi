@@ -1,2 +1,2 @@
 # compose
-Build great things at any scale. Automation server, Compose provides hundreds of integrations to support building, deploying and automating any project
+Repository tracking all Apollo repositories as submodules. Mirror of code maintained at github.com/apolloapi.
