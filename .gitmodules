@@ -1,0 +1,9 @@
+[submodule "text-detection-scripts"]
+	path = text-detection-scripts
+	url = https://github.com/apolloapi/modsys-text-detection
+[submodule "upstream"]
+	path = upstream
+	url = https://github.com/modsysML/modsysML
+[submodule "spot"]
+	path = spot
+	url = https://github.com/apolloapi/models
